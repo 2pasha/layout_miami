@@ -1,13 +1,22 @@
-# Miami landing page
+# My bike landing page
 
-In this task, you will learn how to implement a landing page. To do that:
+Landing page for a bike store. Presents the main products and services of the store, compares the most popular models of bikes, and provides a form for ordering a bike.
 
-- choose a landing page design from the list below;
-  - [BOSE landing](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0%3A1)
-  - [MYBIKE landing](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
-  - [MET landing](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)
-- watch the lesson videos and implement your page blocks similarly to the videos;
-- **DON'T** try to do it `Pixel Perfect` - implement it the most `simple` way so it looks similar;
-- when you finish the first block of your page deploy it and create a Pull Request with a [DEMO LINK](https://<your_account>.github.io/layout_miami/) 
-- after each next block do the same (add, commit and push the changes, and deploy the updated demo;
-- check yourself using the [CHECKLIST](https://github.com/mate-academy/layout_miami/blob/master/checklist.md) when finished;
+# [DEMO](https://2pasha.github.io/layout_my_bike/)
+
+# Technologies used
+
+- HTML5
+- CSS3
+- Sass (SCSS)
+- BEM methodology
+- JavaScript
+
+# Features Overview
+
+Layout is adaptive and responsive as well as cross-browser compatible. It works correctly on all screen sizes (mobile, tablet and desktop versions). Is is implemented using the mobile-first approach.
+
+The code is valid HTML5 and CSS3. In order to decrease user load and avoid code duplication, styles are implemented using Sass (SCSS) including advanced features like mixins, extends, conditional operators etc. 
+BEM methodology is used for naming classes. This naming convention makes the code more readable and understandable, helps to avoid naming conflicts and makes the code easier to maintain and reuse.
+
+Semantic and meta tags are used. SEO optimization is done. Accessibility is improved.
