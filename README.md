@@ -20,3 +20,7 @@ The code is valid HTML5 and CSS3. In order to decrease user load and avoid code 
 BEM methodology is used for naming classes. This naming convention makes the code more readable and understandable, helps to avoid naming conflicts and makes the code easier to maintain and reuse.
 
 Semantic and meta tags are used. SEO optimization is done. Accessibility is improved.
+
+*see google lighthouse report below*
+
+![REPORT](./src/images/README-report.png)
